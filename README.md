@@ -13,3 +13,6 @@ The purpose of this analysis is to help a company called Alphabet Soup Foundatio
 
 3.) What variable(s) are neither targets nor features, and should be removed from the input data?
 - The EIN and NAME are identifiers not variables and have been removed. 
+
+### Compiling, Training, and Evaluating the Model
+
