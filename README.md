@@ -16,4 +16,7 @@ The purpose of this analysis is to help a company called Alphabet Soup Foundatio
 
 ### Compiling, Training, and Evaluating the Model
 1.) How many neurons, layers, and activation functions did you select for your neural network model, and why? 
+- for my first optimization i greatly increases the depth of the layers and added a third overal layer. 
+
+![](Images/Neural_Network.PNG)
 
