@@ -36,5 +36,7 @@ Optimizer3 Results:
 ![](Images/Optimizer2.PNG)
 
 ## Summary
-Adding a third layer and increasing each layers depth combined with changing the bin sizes achieved the best overall accuracy of 
+Adding a third layer and increasing each layers depth combined with changing the bin sizes achieved the best overall accuracy of 73.6%. This still does not satisfy our goal of having a model of 75% accuracy or more.  I would recomend using a Random Forest classifier as well to compare the ensemble learning model type. Here are those results below:
+
+![](Images/RFC.PNG)
 
