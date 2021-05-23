@@ -35,3 +35,6 @@ Optimizer3 Results:
 
 ![](Images/Optimizer2.PNG)
 
+## Summary
+Adding a third layer and increasing each layers depth combined with changing the bin sizes achieved the best overall accuracy of 
+
