@@ -7,3 +7,5 @@ The purpose of this analysis is to help a company called Alphabet Soup Foundatio
 ### Data Preprocessing
 1.) What variable(s) are considered the target(s) for your model?
 - The predicted outcome is our target (IS_SUCCESSFUL column).
+2.) What variable(s) are considered to be the features for your model?
+- The features are all of the variables used to make a prediction which include all of the following: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION,      STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
