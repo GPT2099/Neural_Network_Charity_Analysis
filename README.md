@@ -15,4 +15,5 @@ The purpose of this analysis is to help a company called Alphabet Soup Foundatio
 - The EIN and NAME are identifiers not variables and have been removed. 
 
 ### Compiling, Training, and Evaluating the Model
+1.) How many neurons, layers, and activation functions did you select for your neural network model, and why? 
 
