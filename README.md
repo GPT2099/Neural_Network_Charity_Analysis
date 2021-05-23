@@ -28,3 +28,10 @@ Optimizer1 Results:
 Optimizer2 Results:
 
 ![](Images/Optimizer3.PNG)
+
+- For my last optimization, I returned to the original neural network and changed the "relu" activation function to "tanh"
+
+Optimizer3 Results:
+
+![](Images/Optimizer2.PNG)
+
