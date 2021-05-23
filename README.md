@@ -14,9 +14,15 @@ The purpose of this analysis is to help a company called Alphabet Soup Foundatio
 3.) What variable(s) are neither targets nor features, and should be removed from the input data?
 - The EIN and NAME are identifiers not variables and have been removed. 
 
-### Compiling, Training, and Evaluating the Model
-1.) How many neurons, layers, and activation functions did you select for your neural network model, and why? 
-- for my first optimization i greatly increases the depth of the layers and added a third overal layer. 
+### Compiling, Training, and Evaluating the Model 
+- For my first optimization i greatly increases the depth of the layers and added a third overal layer. 
 
 ![](Images/Neural_Network.PNG)
 
+Optimizer Results:
+
+![](Images/Optimizer1.PNG)
+
+- For my second optimization I increased the amount of bins by changing the type_count and class_count and kept the larger neural network. 
+
+![](Images/Optimizer3.PNG)
