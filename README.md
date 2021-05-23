@@ -23,8 +23,6 @@ Optimizer Results:
 
 ![](Images/Optimizer1.PNG)
 
-
 - For my second optimization I increased the amount of bins by changing the type_count and class_count and kept the larger neural network. 
-
 
 ![](Images/Optimizer3.PNG)
