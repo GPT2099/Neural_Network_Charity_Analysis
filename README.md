@@ -19,10 +19,12 @@ The purpose of this analysis is to help a company called Alphabet Soup Foundatio
 
 ![](Images/Neural_Network.PNG)
 
-Optimizer Results:
+Optimizer1 Results:
 
 ![](Images/Optimizer1.PNG)
 
 - For my second optimization I increased the amount of bins by changing the type_count and class_count and kept the larger neural network. 
+
+Optimizer2 Results:
 
 ![](Images/Optimizer3.PNG)
